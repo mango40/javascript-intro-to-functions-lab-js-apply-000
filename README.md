@@ -111,6 +111,67 @@ learn test
 
 Hey! We got one to pass!
 
+
+
+//0 createS the function shout
+
+var shout
+function shout(string) { 
+    return string
+  }
+
+  // Makes UPPERCASE
+  function shout(string) {  
+    return string.toUpperCase()
+  }
+
+//  1) whisper(string) receives one argument and returns it in all lowercase:
+
+function whisper(string){
+    return string
+}
+
+function whisper(string) {
+return string.toLowerCase()
+}
+
+// 2)  logShout(string) calls console.log() its one argument in all caps:
+
+function logShout(string) {
+   return string.toUpperCase();
+   console.log (logShout);
+}
+
+//  1) whisper(string) receives one argument and returns it in all lowercase:
+
+function whisper(string){
+    return string
+}
+
+function whisper(string) {
+return string.toLowerCase()
+}
+
+// 2)  logShout(string) calls console.log() its one argument in all caps:
+
+function logShout(string) {
+   return string.toUpperCase()
+   console.log (logShout);
+}
+
+
+function whisper(string){
+    return string
+}
+
+function whisper(string) {
+return string.toLowerCase()
+}
+
+
+
+
+
 ## Your turn
 
 Now it's your turn to get the rest of the tests to pass. Note that some of them require you to use `console.log()` instead of `return` — follow the guidance of the tests!
@@ -141,4 +202,160 @@ We can simply check whether the string is the same when we convert it to upperca
 
 Good luck! When you're finished, be sure to run `learn submit`!
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-intro-to-functions-lab'>Intro to Functions Lab</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-intro-to-functions-lab'>Intro to Functions Lab</a> on Lear
+
+
+n.co 
+
+
+and start learning to code for free.</p>
+
+
+
+// 0) Shout 
+
+function shout(string) {
+}
+
+function shout(string) {
+    return string
+}
+
+//  1) whisper(string) receives one argument and returns it in all lowercase:
+
+function whisper(string){
+    return string
+}
+
+function whisper(string) {
+return string.toLowerCase()
+}
+
+// 2)  logShout(string) calls console.log() its one argument in all caps:
+
+function logShout(string) {
+   return string.toUpperCase()
+   console.log (logShout);
+}
+
+
+
+// 0) Shout 
+
+function shout(string) {
+}
+
+function shout(string) {
+    return string
+}
+
+//  1) whisper(string) receives one argument and returns it in all lowercase:
+var whisper;
+function whisper(string){
+    return string
+}
+
+function whisper(string) {
+return string.toLowerCase()
+}
+
+// 2)  logShout(string) calls console.log() its one argument in all caps:
+
+function logShout(string) {
+   return string.toUpperCase()
+   console.log (logShout);
+}
+
+
+var whisper;
+function whisper(string){
+    return string
+}
+
+function whisper(string) {
+return string.toLowerCase()
+}
+function shout(string) {
+}
+function shout(string) {
+  return string
+}
+// 0) Shout 
+
+function shout(string) {
+    return string.toUpperCase()
+  }
+
+//  1) whisper(string) receives one argument and returns it in all lowercase:
+var whisper;
+function whisper(string){
+    return string
+}
+
+function whisper(string) {
+return string.toLowerCase()
+}
+
+// 2)  logShout(string) calls console.log() its one argument in all caps:
+
+function logShout(string) {
+   return string.toUpperCase()
+   console.log (logShout);
+}
+
+
+function whisper(string){
+    return string
+}
+
+function whisper(string) {
+return string.toLowerCase()
+}
+
+function whisper(string) {
+return string.toLowerCase()
+}
+
+function whisper(string) {
+return string.toLowerCase();
+}
+
+function whisper(string) {
+return string.toLowerCase()
+}
+
+function whisper(string){
+    return string.toLowerCase
+}
+
+var whisper;
+function whisper(string) {
+    return string.toLowerCase;
+}// 0) Shout 
+
+function shout(string) {
+    return string.toUpperCase()
+  }
+
+//  1) whisper(string) receives one argument and returns it in all lowercase:
+//var whisper; (did not work when adding this or removing)
+
+function whisper(string) {
+return string.toLowerCase()
+}
+
+// 2)  logShout(string) calls console.log() its one argument in all caps:
+
+function logShout(string) {
+   return string.toUpperCase()
+   console.log (logShout);
+}
+
+
+function whisper(string){
+return string.toLowerCase();
+}
+
+function whisper(string){
+return string.toLowerCase();
+
