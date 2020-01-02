@@ -23,3 +23,10 @@ function logShout(string) {
    return string.toUpperCase()
    console.log (logShout);
 }
+
+function logShout(string) {
+   uppercase = string.toUpperCase()
+   string = uppercase;
+   console.log (uppercase);
+}
+
