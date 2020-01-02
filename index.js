@@ -30,3 +30,9 @@ function logShout(string) {
    console.log (uppercase);
 }
 
+function logShout(string) {
+   uppercase = string.toUpperCase()
+   string = uppercase
+   console.log (uppercase)
+}
+
